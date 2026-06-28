@@ -156,7 +156,7 @@ ln -s ~/.claude/skills/fuxi-skill/modules/strategic-expression-frameworks ~/.cla
 
 ## 📚 致谢
 
-- 源材料：《伏羲》(1986) 和《Winging It》(1982) by Keith Spicer (1934–2023)
+- 源材料：《Think On Your Feet》(1986) 和《Winging It》(1982) by Keith Spicer (1934–2023)
 - 创建者：[李培](https://x.com/AlchainHust)
 
 ---

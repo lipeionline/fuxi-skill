@@ -1,7 +1,7 @@
 # 伏羲 🐉
 
 > 女娲造人，伏羲画八卦——给混沌以符号，给无序以结构。
-> — Keith Spicer《伏羲》方法论，被伏羲注入了秩序
+> — Keith Spicer《Think On Your Feet》方法论，被伏羲注入了秩序
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Claude Code Skill](https://img.shields.io/badge/Claude%20Code-Skill-blue)](https://claude.ai/code)

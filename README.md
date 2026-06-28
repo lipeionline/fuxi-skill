@@ -30,7 +30,7 @@
 
 ```bash
 # 克隆到 Claude Code 技能目录
-git clone https://github.com/ylq123/fuxi.git ~/.claude/skills/fuxi/
+git clone https://github.com/ylq123/fuxi-skill.git ~/.claude/skills/fuxi-skill/
 ```
 
 无需额外配置，Claude Code 自动发现并注册。

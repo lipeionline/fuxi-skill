@@ -8,7 +8,7 @@
 
 一套让你在**没有任何讲稿**的情况下，也能有条理、有说服力、有魅力地张嘴就说的完整操作系统。
 
-源自 Keith Spicer 经典著作《伏羲》(1986) 和《Winging It》(1982)，蒸馏为可被 AI（Claude Code）直接执行的沟通教练 Skill。
+源自 Keith Spicer 经典著作《伏羲》(1986) 和《Winging It》(1982)，基于纯 Markdown 的 AI Skill 格式，可直接被 Claude Code、OpenClaw 等主流 AI 编程工具加载使用。
 
 ---
 
@@ -29,11 +29,11 @@
 ### 安装
 
 ```bash
-# 克隆到 Claude Code 技能目录
+# 克隆到 AI 工具的技能目录（以 Claude Code 为例）
 git clone https://github.com/lipeionline/fuxi-skill.git ~/.claude/skills/fuxi-skill/
 ```
 
-无需额外配置，Claude Code 自动发现并注册。
+放置到对应工具的 skills 目录后即可自动加载，无需额外配置。
 
 ### 使用
 
@@ -134,7 +134,7 @@ ln -s ~/.claude/skills/fuxi-skill/modules/strategic-expression-frameworks ~/.cla
 
 ## 🌟 特色
 
-- **零依赖**：纯 Markdown 文本，Claude Code 原生支持
+- **零依赖，跨平台**：纯 Markdown 文本，兼容 Claude Code、OpenClaw 等主流 AI 编程工具
 - **即刻激活**：描述问题即触发，无需记忆复杂命令
 - **模块化**：5 个 Skill 可按需整体使用或拆分
 - **一手源材料**：方法论直接蒸馏自 Keith Spicer 原书

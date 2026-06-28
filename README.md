@@ -8,7 +8,7 @@
 
 一套让你在**没有任何讲稿**的情况下，也能有条理、有说服力、有魅力地张嘴就说的完整操作系统。
 
-源自 Keith Spicer 经典著作《think on your feet》(1986) 和《Winging It》(1982)，基于纯 Markdown 的 AI Skill 格式，可直接被 Claude Code、OpenCode、OpenClaw 等主流 AI 编程工具加载使用。
+源自 Keith Spicer 经典著作《Think On Your Feet》(1986) 和《Winging It》(1982)，基于纯 Markdown 的 AI Skill 格式，可直接被 Claude Code、OpenCode、OpenClaw 等主流 AI 编程工具加载使用。
 
 ---
 
